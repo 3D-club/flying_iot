@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flying_iot/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/flying_iot/static/js/main.d0004cc3.chunk.js",
+    "main.js.map": "/flying_iot/static/js/main.d0004cc3.chunk.js.map",
+    "runtime-main.js": "/flying_iot/static/js/runtime-main.125f9b21.js",
+    "runtime-main.js.map": "/flying_iot/static/js/runtime-main.125f9b21.js.map",
+    "static/js/2.d772ef28.chunk.js": "/flying_iot/static/js/2.d772ef28.chunk.js",
+    "static/js/2.d772ef28.chunk.js.map": "/flying_iot/static/js/2.d772ef28.chunk.js.map",
+    "static/js/3.1c48f458.chunk.js": "/flying_iot/static/js/3.1c48f458.chunk.js",
+    "static/js/3.1c48f458.chunk.js.map": "/flying_iot/static/js/3.1c48f458.chunk.js.map",
+    "index.html": "/flying_iot/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/flying_iot/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d772ef28.chunk.js.LICENSE.txt": "/flying_iot/static/js/2.d772ef28.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flying_iot/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.125f9b21.js",
+    "static/js/2.d772ef28.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d0004cc3.chunk.js"
+  ]
+}
