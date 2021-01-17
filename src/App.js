@@ -5,6 +5,9 @@ import SectionComponent from "./Components/SectionComponent.jsx";
 import SideMenu from "./Components/SideMenu";
 import MyFooter from "./Components/footer";
 import NavBar from "./Components/NavBar";
+//import PosForm from "./Components/PositionForm";
+import DisplayMapClass from "./Components/DisplayMapClass";
+import WaypointsSA from "./Components/WaypointsSA";
 
 function App() {
   return (
@@ -18,7 +21,8 @@ function App() {
           </p>
         </header>
         <NavBar />
-
+        <DisplayMapClass />
+        <WaypointsSA />
         <SectionComponent />
 
         <MyFooter />
