@@ -1,0 +1,14 @@
+div.scrollMenu {
+  overflow: auto;
+  white-space: nowrap;
+  margin: 14px;
+}
+
+div.scrollMenu a {
+  padding: 14px;
+  color: brown;
+}
+
+div.scrollMenu a:hover {
+  background-color: burlywood;
+}

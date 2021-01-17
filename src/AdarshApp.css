@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  padding: 14px;
+  margin-left: 160px;
+}
+
+.App-header {
+  background-color: rgb(2, 2, 54);
+  color: rgb(15, 241, 166);
+}
+footer {
+  text-align: left;
+  color: rgb(15, 241, 166);
+}
+
+section {
+  text-align: left;
+}
+
+#SignOut {
+  text-align: right;
+  padding: 14px;
+}
