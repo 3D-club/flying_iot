@@ -1,0 +1,32 @@
+.dropDownBtnParent {
+  position: relative;
+  display: inline-block;
+}
+.dropBtn {
+  padding: 0;
+  width: 50px;
+  border: 0;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+  outline: 0;
+  font-size: 20px;
+}
+
+.cloudDropDownMenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 300px;
+  z-index: 2;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14);
+}
+a {
+  padding: 8px 12px;
+}
+
+a:hover {
+  background-color: rgba(0, 0, 0, 0.14);
+  cursor: pointer;
+}
