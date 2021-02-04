@@ -34,7 +34,7 @@ class Form extends Component {
       console.log(latitude);
       console.log(i);
       await axios
-        .post("https://9t0ax6l8x2.execute-api.ap-south-1.amazonaws.com/CORS", {
+        .post("https://xxxxxxxxxx.execute-api.ap-south-1.amazonaws.com/CORS", {
           lat_long,
           latitude,
           longitude,

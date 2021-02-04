@@ -26,7 +26,7 @@ class Form extends Component {
     const { latitude, longitude } = this.state;
     console.log(latitude);
     await axios
-      .post("https://9t0ax6l8x2.execute-api.ap-south-1.amazonaws.com/CORS", {
+      .post("https://xxxxxxxxxx.execute-api.ap-south-1.amazonaws.com/CORS", {
         latitude,
         longitude,
       })
